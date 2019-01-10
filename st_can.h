@@ -1,0 +1,14 @@
+#ifndef ST_CAN_H
+#define ST_CAN_H
+
+#define ST_CAN_PROTOCAL_VERSION 0x1
+#define ST_CAN_PROTOCAL_UP_INFORM 0x01
+#define ST_CAN_PROTOCAL_PARAM_SET 0x02
+#define ST_CAN_PROTOCAL_FILE_TRANSFER 0x03
+
+
+
+
+
+
+#endif // ST_CAN_H
